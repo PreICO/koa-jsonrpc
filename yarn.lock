@@ -652,9 +652,9 @@ drbg.js@^1.0.1:
     create-hash "^1.1.2"
     create-hmac "^1.1.4"
 
-dsteem@^0.8.6:
+"dsteem@ssh://git@github.com:PreICO/dsteem.git#semver:^0.8.6":
   version "0.8.6"
-  resolved "https://registry.yarnpkg.com/dsteem/-/dsteem-0.8.6.tgz#6f11333903537503267441e842ae92117beadcc0"
+  resolved "ssh://git@github.com:PreICO/dsteem.git#b9004df891c4cf32a99c359bbd6efd876c8d9d10"
   dependencies:
     bs58 "^4.0.1"
     bytebuffer "^5.0.1"

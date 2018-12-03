@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@steemit/rpc-auth": "^1.1.1",
-    "dsteem": "^0.8.6",
+    "dsteem": "ssh://git@github.com:PreICO/dsteem.git#semver:^0.8.6",
     "uuid": "^3.2.1",
     "verror": "^1.10.0"
   },
